@@ -11,9 +11,19 @@
             "id": "78e106e99967a83f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7ebe11fe0f15c7d6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7  and MLO.md",
+                "file": "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers - MLO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wifi 7  and MLO"
+              "title": "Research Papers - MLO"
             }
           },
           {
-            "id": "36b11f20721e5682",
+            "id": "aa1f9c215424c54f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -40,9 +50,159 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4cf38ebac5061ac8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "4c6bd5108db93ad1"
+          },
+          {
+            "id": "c203a437ec67d1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Concepts/Proportional Fairness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proportional Fairness"
+            }
+          },
+          {
+            "id": "773ea668e0b56121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/AC to channel Allocation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AC to channel Allocation"
+            }
+          },
+          {
+            "id": "518e7c0926ce92d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Intelligent Multi-link EDCA Optimization for Delay-Bounded QoS in Wi-Fi 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligent Multi-link EDCA Optimization for Delay-Bounded QoS in Wi-Fi 7"
+            }
+          },
+          {
+            "id": "5351467dc5c4ffe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Aspects of Wifi 7/IEEE 802.11k.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IEEE 802.11k"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "baa27aa7fbd5d16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e13996f0dc2ef6f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792584,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "4c6bd5108db93ad1"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,21 +375,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "36b11f20721e5682",
+  "active": "3e13996f0dc2ef6f",
   "lastOpenFiles": [
-    "Wifi 7 Security Testing and threat prection/NDT/Digital Twins.md",
-    "Wifi 7 Security Testing and threat prection/NDT/Papers.md",
-    "Wifi 7 Security Testing and threat prection/NDT/Concepts.md",
-    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Multi-Link Operation and Wireless Digital Twin to Support Enhanced Roaming in Next-Gen Wi-Fi.md",
-    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers",
-    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO",
-    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection",
-    "FYP-wifi-7-security-testing-and-threat-prediction",
-    "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7  and MLO.md",
-    "Wifi 7 Security Testing and Threat Prediction.md",
-    "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Main/Aspects of Wifi 7.md",
-    "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Main/Wifi 7.md",
-    "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Aspects of Wifi 7/Backward Compatibility.md",
     "oct30.zip",
     "FYP-wifi-7-security-testing-and-threat-prediction.zip",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Threats and Threat Prediction/Main/Research Papers - Threats.md",
@@ -256,11 +403,24 @@
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Packet Steering Mechanisms for MLO in Wi-Fi 7.md",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Concepts/Early steering and late steering and combined steering.md",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Intelligent Multi-link EDCA Optimization for Delay-Bounded QoS in Wi-Fi 7.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/AC to channel Allocation.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/Qos in MLOs and Wifi 7.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Concepts/Radio link allocation.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Main/Concepts.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/IEEE 802.11be Network Throughput Optimization.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Delay Analysis of IEEE 802.11be Multi-link Operation under Finite Load.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/Primary and secondary channels in Wifi.md",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Wi-Fi-7-MLO-White-Paper-WF7MLOWP0622.md",
     "Wi-Fi-7-MLO-White-Paper-WF7MLOWP0622.pdf",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/NDT/NDT_Summeries/8_Machine learning based propagation loss module for enabling digital twins of wireless networks in ns-3",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/Pasted image 20251013134647.png",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Pasted image 20251025112150.png",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Pasted image 20251025111928.png",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers/Pasted image 20251025111913.png",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Research Papers",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Problems in MLO",
+    "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Problems and challenges in WIfi 7",
     "FYP-wifi-7-security-testing-and-threat-prediction/Wifi 7 Security Testing and threat prection/NDT/Final Digital Twin Proposal/High level Architecture of proposed digital twin.png",
     "Wifi 7 Security Testing and threat prection/Wifi 7 and MLO/Wifi 7/Pasted image 20251013134647.png"
   ]
