@@ -1,1 +1,1 @@
-Upload your code to this folder.
+In the analysis folder. the datasets as well as the codes for the initial GNN setup and the models from different versions (GNN/artifacts) is available.
